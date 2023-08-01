@@ -64,3 +64,5 @@ Selecting the right local models and the power of `LangChain` you can run the en
 
 # Disclaimer
 This is a test project to validate the feasibility of a fully private solution for question answering using LLMs and Vector embeddings. It is not production ready, and it is not meant to be used in production. The models selection is not optimized for performance, but for privacy; but it is possible to use different models and vectorstores to improve performance.
+
+now， let's go！
